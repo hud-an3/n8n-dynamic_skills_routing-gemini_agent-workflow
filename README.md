@@ -1,1 +1,2 @@
+Agent can summarize any content or file and store the summary in a new created file using Google Docs, it can upload files and create folders in Google Drive, search files and folders in Drive, schedule events in Google Calendar and run Google searches via SerpApi. Simple Memory keeps conversational context and since the skills live in GitHub, new capabilities can be added without touching the workflow itself.
 <img width="2590" height="938" alt="image" src="https://github.com/user-attachments/assets/336e8ba2-6234-479f-9430-157a543f267a" />
